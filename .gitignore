@@ -1,10 +1,10 @@
 # main.tf files containing AWS credentials
-main.tf
-*.main.tf
-*.main.tf.*
-variables.tf
-*.variables.tf
-*.variables.tf.*
+#main.tf
+#*.main.tf
+#*.main.tf.*
+#variables.tf
+#*.variables.tf
+#*.variables.tf.*
 
 # Local .terraform directories
 **/.terraform/*
