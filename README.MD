@@ -62,4 +62,4 @@ Terraform best practices
 7- Treat TF just like the Application Code. This means Review TF Code and run Automated Tests 
 8- Execute Terraform in an automated build only through CD pipeline (automated build)
 
-adding a change
+adding a change numero 2
